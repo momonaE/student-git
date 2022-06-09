@@ -1,2 +1,2 @@
 # student-git
-this peoject to refresh an learning git 
+this project is used  to refresh an learning git 
